@@ -1,4 +1,4 @@
-Plateforme moderne de gestion basée sur une architecture de microservices, développée avec Spring Boot pour le backend et Angular pour le frontend. Ce projet vise à fournir une solution évolutive et modulaire pour répondre aux besoins complexes de l'entreprise, tout en exploitant les avantages de l'approche microservices. 
+### Plateforme moderne de gestion basée sur une architecture de microservices, développée avec Spring Boot pour le backend et Angular pour le frontend. Ce projet vise à fournir une solution évolutive et modulaire pour répondre aux besoins complexes de l'entreprise, tout en exploitant les avantages de l'approche microservices. 
 
 ### FRONT END 
 
